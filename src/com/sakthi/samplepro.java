@@ -8,7 +8,8 @@ public class samplepro {
     {
 	  System.out.println(i);
     }
+	   System.out.println("hello");
    }
-	System.out.println("hello");
+	
   
 }
